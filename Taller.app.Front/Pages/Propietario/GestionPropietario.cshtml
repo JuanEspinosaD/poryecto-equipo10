@@ -1,0 +1,79 @@
+﻿@page
+@model Taller.app.Pages.GestionPropietarioModel
+@{
+}
+<h1>
+    Datos del propietario
+</h1>
+<form class="row g-3">
+    <div class="col-md-6">
+        <label for="inputName" class="form-label">Nombres</label>
+        <input type="text" class="form-control" id="inputName" placeholder="Ingrese nombre">
+    </div>
+    <div class="col-md-6">
+        <label for="inputLastName" class="form-label">Apellidos</label>
+        <input type="text" class="form-control" id="inputLastName" placeholder="Ingrese apellidos">
+    </div>
+    <div class="col-md-6">
+        <label for="inputEmail" class="form-label">Correo</label>
+        <input type="text" class="form-control" id="inputEmail" placeholder="Ingrese correo electrónico">
+    </div>
+    <div class="col-md-6">
+        <label for="inputPassword" class="form-label">Contraseña</label>
+        <input type="text" class="form-control" id="inputPassword" placeholder="Ingrese contraseña">
+    </div>
+    <div class="col-md-6">
+        <label for="inputAddress" class="form-label">Dirección</label>
+        <input type="text" class="form-control" id="inputAddress" placeholder="Ingrese dirección">
+    </div>
+    <div class="col-md-2">
+        <label for="typeId" class="form-label">Tipo de identificación</label>
+        <select id="typeId" class="form-select">
+            <option selected>Seleccione</option>
+            <option>Cédula de ciudadanía</option>
+            <option>Cédula de extranjería</option>
+            <option>No. de identificación tributaria</option>
+            <option>Pasaporte</option>
+        </select>
+    </div>
+    <div class="col-md-4">
+        <label for="inputEmail" class="form-label">Número de identificación</label>
+        <input type="text" class="form-control" id="inputEmail" placeholder="Ingrese correo electrónico">
+    </div>
+    <div class="col-md-3">
+        <label for="inputState" class="form-label">Departamento</label>
+        <select id="inputState" class="form-select">
+            <option selected>Seleccione</option>
+            <option>Amazonas</option>
+            <option>Antioquia</option>
+            <option>Bolivar</option>
+            <option>Cordoba</option>
+            <option>Magdalena</option>
+            <option>Risaralda</option>
+            <option>Santander</option>
+            <option>Vichada</option>
+        </select>
+    </div>
+    <div class="col-md-3">
+        <label for="inputCity" class="form-label">Ciudad</label>
+        <select id="inputCity" class="form-select">
+            <option selected>Seleccione</option>
+            <option>Bogotá</option>
+            <option>Bello</option>
+            <option>Bucaramanga</option>
+            <option>Cali</option>
+            <option>Medellin</option>
+        </select>
+    </div>
+    <div class="col-md-3">
+        <label for="inputPhone" class="form-label">Teléfono</label>
+        <input type="text" class="form-control" id="inputPhone" placeholder="Ingrese teléfono">
+    </div>
+    <div class="col-md-3">
+        <label for="inputDate" class="form-label">Fecha de nacimiento</label>
+        <input type="text" class="form-control" id="inputDate" placeholder="Ingrese fecha DD/MM/AAAA">
+    </div>
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Registrar</button>
+    </div>
+</form>

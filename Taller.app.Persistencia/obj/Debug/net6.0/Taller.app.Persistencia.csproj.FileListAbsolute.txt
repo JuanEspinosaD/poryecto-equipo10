@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Proyecto\Taller.app\Taller.app.Persistencia\obj\Debug\net6.0\Taller.app.Persistencia.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Proyecto\Taller.app\Taller.app.Persistencia\obj\Debug\net6.0\Taller.app.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Proyecto\Taller.app\Taller.app.Persistencia\obj\Debug\net6.0\Taller.app.Persistencia.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Proyecto\Taller.app\Taller.app.Persistencia\obj\Debug\net6.0\Taller.app.Persistencia.AssemblyInfo.cs
+C:\Users\user\Desktop\Proyecto\Taller.app\Taller.app.Persistencia\obj\Debug\net6.0\Taller.app.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proyecto\Taller.app\Taller.app.Persistencia\bin\Debug\net6.0\Taller.app.Persistencia.deps.json
+C:\Users\user\Desktop\Proyecto\Taller.app\Taller.app.Persistencia\bin\Debug\net6.0\Taller.app.Persistencia.runtimeconfig.json
+C:\Users\user\Desktop\Proyecto\Taller.app\Taller.app.Persistencia\bin\Debug\net6.0\Taller.app.Persistencia.dll
+C:\Users\user\Desktop\Proyecto\Taller.app\Taller.app.Persistencia\bin\Debug\net6.0\Taller.app.Persistencia.pdb
+C:\Users\user\Desktop\Proyecto\Taller.app\Taller.app.Persistencia\bin\Debug\net6.0\Taller.app.Dominio.dll
+C:\Users\user\Desktop\Proyecto\Taller.app\Taller.app.Persistencia\bin\Debug\net6.0\Taller.app.Dominio.pdb
+C:\Users\user\Desktop\Proyecto\Taller.app\Taller.app.Persistencia\obj\Debug\net6.0\Taller.app.Persistencia.csproj.CopyComplete
+C:\Users\user\Desktop\Proyecto\Taller.app\Taller.app.Persistencia\obj\Debug\net6.0\Taller.app.Persistencia.dll
+C:\Users\user\Desktop\Proyecto\Taller.app\Taller.app.Persistencia\obj\Debug\net6.0\refint\Taller.app.Persistencia.dll
+C:\Users\user\Desktop\Proyecto\Taller.app\Taller.app.Persistencia\obj\Debug\net6.0\Taller.app.Persistencia.pdb
+C:\Users\user\Desktop\Proyecto\Taller.app\Taller.app.Persistencia\obj\Debug\net6.0\Taller.app.Persistencia.genruntimeconfig.cache
+C:\Users\user\Desktop\Proyecto\Taller.app\Taller.app.Persistencia\obj\Debug\net6.0\ref\Taller.app.Persistencia.dll
